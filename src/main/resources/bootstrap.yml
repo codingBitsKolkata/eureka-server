@@ -6,5 +6,5 @@ spring:
     - dvl-phase1
   cloud:
     config: 
-      uri: http://localhost:7090
+      uri: http://localhost:7101
       fail-fast: true
