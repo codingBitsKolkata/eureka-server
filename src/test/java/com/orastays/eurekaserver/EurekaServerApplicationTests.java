@@ -1,4 +1,4 @@
-package com.stays.eurekaserver;
+package com.orastays.eurekaserver;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
